@@ -4,3 +4,6 @@
 
 <br>
 <H2>MASS XMLRPC BRUTE FORCE</H2>
+<br>
+<H2>Requirement :</H2>
+Python v2.7.18
