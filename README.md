@@ -1,12 +1,27 @@
-# XMLRPC-Brure-Force
-<br>
-<img src="https://raw.githubusercontent.com/InMyMine7/XMLRPC-Brure-Force/main/xml.jpg"
+# MASS XMLRPC-Brure-Force
 
 <br>
-<H2>MASS XMLRPC BRUTE FORCE</H2>
 
-<H2>Requirement</H2>
-Python v2.7.18
-<H2>How To Use</H2>
-Just Run xml.py
-<H2>PASSWORD : sx2023</H2>
+<img src="https://raw.githubusercontent.com/InMyMine7/XMLRPC-Brure-Force/main/xml.jpg">
+
+Requirement :
+
+- `Python 2.7.18`
+
+- `pip 19.2.3`
+
+How To Usage :
+
+```
+python2 xml.py
+```
+
+Password
+
+```
+sx2023
+```
+Don't put wp-login.php or xmlrpc.php in your list
+
+**DISCLAIMER : THIS TOOLS IS FOR EDUCATIONAL PURPOSES ONLY. 
+AND WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES**
