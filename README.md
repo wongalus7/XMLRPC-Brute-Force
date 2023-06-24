@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/InMyMine7/XMLRPC-Brure-Force/main/xml.jpg">
+<img src="https://raw.githubusercontent.com/InMyMine7/XMLRPC-Brure-Force/main/xmlr.jpg">
 
 Requirement :
 
@@ -14,12 +14,6 @@ How To Usage :
 
 ```
 python2 xml.py
-```
-
-Password
-
-```
-sx2023
 ```
 Don't put wp-login.php or xmlrpc.php in your list
 
