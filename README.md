@@ -15,6 +15,11 @@ Requirement :
 
 - `pip 19.2.3`
 
+Install:
+
+```
+pip2 install -r install.txt
+```
 How To Usage :
 
 ```
