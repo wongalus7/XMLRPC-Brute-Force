@@ -2,12 +2,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/InMyMine7/XMLRPC-Brure-Force/main/xmlr.jpg">
-
-Tutorial :
-```
-https://www.facebook.com/SharkXploit/videos/712874280735545
-```
+<img src="https://raw.githubusercontent.com/InMyMine7/InMyMine7/main/xml.png">
 
 Requirement :
 
