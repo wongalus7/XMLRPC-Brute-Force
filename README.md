@@ -16,7 +16,14 @@ XML-RPC brute force refers to a type of cyberattack where an attacker repeatedly
 - Auto search username wordpress. 
 - With module threading to make fastest brute force.
 - Support http/https in ur list.
+- add password at passwd.txt and don't delete it
 
+## Password Features
+- [WPLOGIN] = username wordpress
+- [UPPERLOGIN] = username with capslock example ADMIN
+- [DOMAIN] = domain.com
+- [UPPERDOMAIN] = domain with capslock example DOMAIN.COM
+- [FULLDOMAIN] = https://domain.com
 ## How To Usage 
 
 ```
