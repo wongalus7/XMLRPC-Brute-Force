@@ -10,7 +10,7 @@ XML-RPC brute force refers to a type of cyberattack where an attacker repeatedly
 
 ## Requirements
 - Python 3.x
-- The requests package (install it with the command `pip install requests`)
+- The requests package (`requests` and `colorama`)
 
 ## Key Features
 - Auto search username wordpress. 
