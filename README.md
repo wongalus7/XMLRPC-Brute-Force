@@ -1,23 +1,26 @@
-# MASS XMLRPC-Brure-Force
-
-<br>
+## MASS XMLRPC Brure Force
 
 <img src="https://raw.githubusercontent.com/InMyMine7/InMyMine7/main/xml.png">
 
-Requirement :
+XML-RPC brute force refers to a type of cyberattack where an attacker repeatedly attempts to guess usernames and passwords via the XML-RPC interface in WordPress.
 
-- `Python 3.11.9`
+- XML-RPC Interface: WordPress provides an XML-RPC interface via the xmlrpc.php script, enabling remote procedure calling using HTTP and XML.
+- Attack Method: Attackers use tools to automate the process of trying different username and password combinations until they gain unauthorized access to the CMS.
+- Risk: Brute force attacks pose a significant security risk, potentially leading to unauthorized access, data breaches, and website defacement.
 
-Install:
+## Requirements
+- Python 3.x
+- The requests package (install it with the command `pip install requests`)
 
-```
-pip3 install -r install.txt
-```
-How To Usage :
+## Key Features
+- Auto search username wordpress. 
+- With module threading to make fastest brute force.
+- Support http/https in ur list.
+
+## How To Usage 
 
 ```
 python3 xml.py
 ```
-
-**DISCLAIMER : THIS TOOLS IS FOR EDUCATIONAL PURPOSES ONLY. 
-AND WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES**
+## DISCLAIMER
+This script should only be used for educational purposes and ethical hacking. Unauthorized access to computer systems is illegal and unethical. Ensure you have explicit permission before testing any system. AND WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES
