@@ -6,23 +6,18 @@
 
 Requirement :
 
-- `Python 2.7.18`
-
-- `pip 19.2.3`
+- `Python 3.11.9`
 
 Install:
 
 ```
-pip2 install -r install.txt
+pip3 install -r install.txt
 ```
 How To Usage :
 
 ```
-python2 xml.py
+python3 xml.py
 ```
-Don't put wp-login.php or xmlrpc.php in your list
-<br>
-Add http/https on your list
 
 **DISCLAIMER : THIS TOOLS IS FOR EDUCATIONAL PURPOSES ONLY. 
 AND WE DO NOT CONDONE ANY ILLEGAL ACTIVITIES**
